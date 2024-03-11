@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://lankoestee.github.io/posts/25ec247c/</loc>
+    
+    <lastmod>2024-03-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lankoestee.github.io/posts/265b4825/</loc>
     
     <lastmod>2024-03-10</lastmod>
@@ -97,6 +106,13 @@
   </url>
   
   <url>
+    <loc>http://lankoestee.github.io/tags/%E6%9D%82%E4%B9%B1/</loc>
+    <lastmod>2024-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://lankoestee.github.io/tags/Linux/</loc>
     <lastmod>2024-03-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -105,13 +121,6 @@
   
   <url>
     <loc>http://lankoestee.github.io/tags/%E5%B0%8F%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2024-03-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://lankoestee.github.io/tags/%E6%9D%82%E4%B9%B1/</loc>
     <lastmod>2024-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
