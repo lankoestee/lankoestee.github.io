@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "cmunrm";
+    font-display: swap;
+    src: url("/asset/font/cmunrm.otf") format('truetype');
+}
+
+@font-face {
+    font-family: "Misans";
+    font-display: swap;
+    src: url("/asset/font/MiSans-Normal.otf") format('truetype');
+}
+
+@font-face {
+    font-family: "Monaco";
+    font-display: swap;
+    src: url("/asset/font/Monaco-1.ttf") format('truetype');
+}
